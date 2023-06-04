@@ -1,0 +1,18 @@
+2023-06-04 01:50:27,053 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 01:50:30,597 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 02:23:59,375 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 02:24:02,893 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 02:26:42,197 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 02:26:45,217 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 02:32:00,180 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 02:40:48,521 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 02:43:31,498 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 03:57:06,580 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 03:57:09,919 [main] INFO com.facebook.genericPage.MasterPage - url opened
+2023-06-04 03:57:10,495 [main] INFO com.facebook.genericPage.MasterPage - clicked on registration link 
+2023-06-04 03:57:10,569 [main] INFO com.facebook.genericPage.MasterPage - gender selected
+2023-06-04 03:57:10,652 [main] INFO com.facebook.genericPage.MasterPage - entered first name
+2023-06-04 03:57:10,727 [main] INFO com.facebook.genericPage.MasterPage - entered last name
+2023-06-04 03:57:10,812 [main] INFO com.facebook.genericPage.MasterPage - entered email
+2023-06-04 03:57:10,887 [main] INFO com.facebook.genericPage.MasterPage - entered password
+2023-06-04 03:57:10,962 [main] INFO com.facebook.genericPage.MasterPage - entered password again to confirm
